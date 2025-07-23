@@ -1,0 +1,12 @@
+receptor = 4ey4.pdbqt
+ligand = spm.pdbqt
+
+center_x =  5.1
+center_y =  66.5
+center_z =  63.2
+
+size_x = 30
+size_y = 30
+size_z = 34
+
+energy_range = 4

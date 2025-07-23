@@ -1,0 +1,14 @@
+REMARK   4 XXXX COMPLIES WITH FORMAT V. 2.0
+ATOM      1  C1  PUT     1       6.217  68.729  63.927  1.00  0.00      put_ C  
+ATOM      2  C3  PUT     1       5.306  68.503  62.720  1.00  0.00      put_ C  
+ATOM      3  N1  PUT     1       6.091  68.544  61.429  1.00  0.00      put_ N  
+ATOM      4  H9  PUT     1       5.491  68.559  60.615  1.00  0.00      put_ H  
+ATOM      5  H10 PUT     1       6.685  67.728  61.340  1.00  0.00      put_ H  
+ATOM      6  H11 PUT     1       6.695  69.353  61.374  1.00  0.00      put_ H  
+ATOM      7  C2  PUT     1       5.437  68.559  65.242  1.00  0.00      put_ C  
+ATOM      8  C4  PUT     1       3.976  68.203  64.965  1.00  0.00      put_ C  
+ATOM      9  N2  PUT     1       3.167  68.186  66.241  1.00  0.00      put_ N  
+ATOM     10  H12 PUT     1       2.263  68.621  66.104  1.00  0.00      put_ H  
+ATOM     11  H13 PUT     1       3.624  68.690  66.990  1.00  0.00      put_ H  
+ATOM     12  H14 PUT     1       2.994  67.246  66.573  1.00  0.00      put_ H  
+TER      13      PUT     1 
